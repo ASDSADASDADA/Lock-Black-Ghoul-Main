@@ -1,0 +1,8 @@
+local StarterGui = game:Getservice("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+     
+     Title = "Da hood"
+     Text = You're Getting banned for 10 second's
+     Duration = 50
+})
